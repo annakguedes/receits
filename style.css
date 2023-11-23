@@ -1,0 +1,56 @@
+html {
+    padding:  1rem 15rem  1rem 15rem;
+    background-color: #2081C3;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 0.9rem;
+   
+}
+  
+main{
+    background-color: #ffffff;
+    box-shadow: 0 3px 20px #000;
+    border-radius: 15px;
+}
+
+h1{
+    text-align: center;
+    padding-top: 1rem;
+}
+
+figure{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+.img-waffle{
+    width: 30vw;
+    border-radius: 15px;
+}
+
+#text-img{
+    text-align: center;
+
+}
+
+#container-central{
+padding-left: 1rem;
+}
+
+#container-central h2 {
+    padding-left: 1rem;
+}
+
+#container-central p {
+    padding-left: 1rem;
+}
+
+#coments{
+   margin-top: 0%;
+}
+
+footer{
+    padding-bottom: 3rem;
+    padding-left: 1rem;
+    margin-top: 2rem;
+}
